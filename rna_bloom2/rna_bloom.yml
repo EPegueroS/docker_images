@@ -1,0 +1,10 @@
+name: rna_bloom
+channels:
+  - bioconda
+  - defaults
+dependencies:
+  - minimap2=2
+  - ntcard=1.2
+  - openjdk=11
+  - python=3.11
+  - rnabloom=2.0.1
